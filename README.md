@@ -10,4 +10,5 @@ The test does the following:
 - Executes the query (federated, accessing dbpedia)
 
 Result:
+
 ![](result.png)
