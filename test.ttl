@@ -1,0 +1,2 @@
+@prefix dbo: <http://dbpedia.org/ontology/>.
+<http://dbpedia.org/resource/Amersfoort> a dbo:City.
